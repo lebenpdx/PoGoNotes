@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Alolan Geodude",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 516,
+    "max_cp": 554,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm74.fALOLA.icon.png"
+  },
+  {
+    "name": "Electabuzz",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 949,
+    "max_cp": 1000,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm125.icon.png"
+  },
+  {
+    "name": "Makuhita",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 318,
+    "max_cp": 350,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm296.icon.png"
+  },
+  {
+    "name": "Swablu",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 322,
+    "max_cp": 353,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm333.icon.png"
+  },
+  {
+    "name": "Baltoy",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 307,
+    "max_cp": 337,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm343.icon.png"
+  },
+  {
+    "name": "Dusclops",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 638,
+    "max_cp": 682,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm356.icon.png"
+  },
+  {
+    "name": "Staravia",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 518,
+    "max_cp": 556,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm397.icon.png"
+  },
+  {
+    "name": "Emolga",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 657,
+    "max_cp": 700,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm587.icon.png"
+  },
+  {
+    "name": "Ferroseed",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 370,
+    "max_cp": 403,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm597.icon.png"
+  },
+  {
+    "name": "Lechonk",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Curveball Throws",
+    "min_cp": 285,
+    "max_cp": 314,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm915.icon.png"
+  },
+  {
+    "name": "Magmar",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 973,
+    "max_cp": 1026,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm126.icon.png"
+  },
+  {
+    "name": "Magikarp",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 99,
+    "max_cp": 117,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
+  },
+  {
+    "name": "Sunkern",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 148,
+    "max_cp": 169,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm191.icon.png"
+  },
+  {
+    "name": "Nuzleaf",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 487,
+    "max_cp": 526,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm274.icon.png"
+  },
+  {
+    "name": "Roggenrola",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 479,
+    "max_cp": 516,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm524.icon.png"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 876,
+    "max_cp": 926,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png"
+  },
+  {
+    "name": "Stunfisk",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 876,
+    "max_cp": 926,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+  },
+  {
+    "name": "Trumbeak",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 592,
+    "max_cp": 633,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm732.icon.png"
+  },
+  {
+    "name": "Mareanie",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 383,
+    "max_cp": 416,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm747.icon.png"
+  },
+  {
+    "name": "Nymble",
+    "section": "Throwing Tasks",
+    "task": "Make 10 Nice Throws",
+    "min_cp": 228,
+    "max_cp": 253,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm919.icon.png"
+  },
+  {
+    "name": "Dratini",
+    "section": "Throwing Tasks",
+    "task": "Make 2 Excellent Throws",
+    "min_cp": 397,
+    "max_cp": 430,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+  },
+  {
+    "name": "Larvitar",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Excellent Throws in a row",
+    "min_cp": 411,
+    "max_cp": 445,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png"
+  },
+  {
+    "name": "Beldum",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Excellent Throws in a row",
+    "min_cp": 385,
+    "max_cp": 418,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
+  },
+  {
+    "name": "Gible",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Excellent Throws in a row",
+    "min_cp": 441,
+    "max_cp": 477,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png"
+  },
+  {
+    "name": "Omanyte",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Great Throws",
+    "min_cp": 620,
+    "max_cp": 662,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm138.icon.png"
+  },
+  {
+    "name": "Kabuto",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Great Throws",
+    "min_cp": 548,
+    "max_cp": 587,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm140.icon.png"
+  },
+  {
+    "name": "Clamperl",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Great Throws",
+    "min_cp": 507,
+    "max_cp": 544,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm366.icon.png"
+  },
+  {
+    "name": "Elgyem",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Great Throws",
+    "min_cp": 554,
+    "max_cp": 593,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm605.icon.png"
+  },
+  {
+    "name": "Binacle",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Great Throws",
+    "min_cp": 373,
+    "max_cp": 405,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm688.icon.png"
+  },
+  {
+    "name": "Lileep",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Great Throws in a row",
+    "min_cp": 515,
+    "max_cp": 553,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm345.icon.png"
+  },
+  {
+    "name": "Anorith",
+    "section": "Throwing Tasks",
+    "task": "Make 3 Great Throws in a row",
+    "min_cp": 613,
+    "max_cp": 655,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm347.icon.png"
+  },
+  {
+    "name": "Spinda 4",
+    "section": "Throwing Tasks",
+    "task": "Make 5 Great Curveball Throws in a row",
+    "min_cp": 486,
+    "max_cp": 523,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f03.icon.png"
+  },
+  {
+    "name": "Spinda 5",
+    "section": "Throwing Tasks",
+    "task": "Make 5 Great Curveball Throws in a row",
+    "min_cp": 486,
+    "max_cp": 523,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f04.icon.png"
+  },
+  {
+    "name": "Alolan Diglett",
+    "section": "Throwing Tasks",
+    "task": "Make 5 Nice Throws",
+    "min_cp": 264,
+    "max_cp": 292,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm50.fALOLA.icon.png"
+  },
+  {
+    "name": "Diglett",
+    "section": "Throwing Tasks",
+    "task": "Make 5 Nice Throws",
+    "min_cp": 262,
+    "max_cp": 289,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm50.icon.png"
+  },
+  {
+    "name": "Sudowoodo",
+    "section": "Throwing Tasks",
+    "task": "Make 5 Nice Throws",
+    "min_cp": 871,
+    "max_cp": 920,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm185.icon.png"
+  }
+]

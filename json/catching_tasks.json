@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Magikarp",
+    "section": "Catching Tasks",
+    "task": "Catch 7 Pokémon",
+    "min_cp": 99,
+    "max_cp": 117,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
+  },
+  {
+    "name": "Stufful",
+    "section": "Catching Tasks",
+    "task": "Catch 7 Pokémon",
+    "min_cp": 540,
+    "max_cp": 579,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm759.icon.png"
+  },
+  {
+    "name": "Wimpod",
+    "section": "Catching Tasks",
+    "task": "Catch 7 Pokémon",
+    "min_cp": 191,
+    "max_cp": 215,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm767.icon.png"
+  },
+  {
+    "name": "Dratini",
+    "section": "Catching Tasks",
+    "task": "Catch a Dragon-type Pokémon",
+    "min_cp": 397,
+    "max_cp": 430,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+  },
+  {
+    "name": "Bagon",
+    "section": "Catching Tasks",
+    "task": "Catch a Dragon-type Pokémon",
+    "min_cp": 459,
+    "max_cp": 495,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+  },
+  {
+    "name": "Axew",
+    "section": "Catching Tasks",
+    "task": "Catch a Dragon-type Pokémon",
+    "min_cp": 547,
+    "max_cp": 586,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm610.icon.png"
+  },
+  {
+    "name": "Psyduck",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 439,
+    "max_cp": 474,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm54.icon.png"
+  },
+  {
+    "name": "Seaking",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 877,
+    "max_cp": 926,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm119.icon.png"
+  },
+  {
+    "name": "Marill",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 172,
+    "max_cp": 197,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm183.icon.png"
+  },
+  {
+    "name": "Teddiursa",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 530,
+    "max_cp": 569,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm216.icon.png"
+  },
+  {
+    "name": "Lombre",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 476,
+    "max_cp": 513,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm271.icon.png"
+  },
+  {
+    "name": "Stunky",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 457,
+    "max_cp": 493,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm434.icon.png"
+  },
+  {
+    "name": "Liepard",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 744,
+    "max_cp": 791,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm510.icon.png"
+  },
+  {
+    "name": "Darumaka",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 576,
+    "max_cp": 618,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm554.icon.png"
+  },
+  {
+    "name": "Clauncher",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 431,
+    "max_cp": 466,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm692.icon.png"
+  },
+  {
+    "name": "Dedenne",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 743,
+    "max_cp": 789,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
+  },
+  {
+    "name": "Cutiefly",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 349,
+    "max_cp": 380,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm742.icon.png"
+  },
+  {
+    "name": "Smoliv",
+    "section": "Catching Tasks",
+    "task": "Catch 7 different species of Pokémon",
+    "min_cp": 335,
+    "max_cp": 366,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
+  },
+  {
+    "name": "Sunkern",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Grass-type Pokémon",
+    "min_cp": 148,
+    "max_cp": 169,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm191.icon.png"
+  },
+  {
+    "name": "Seedot",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Grass-type Pokémon",
+    "min_cp": 230,
+    "max_cp": 256,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm273.icon.png"
+  },
+  {
+    "name": "Shroomish",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Grass-type Pokémon",
+    "min_cp": 316,
+    "max_cp": 347,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm285.icon.png"
+  },
+  {
+    "name": "Petilil",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Grass-type Pokémon",
+    "min_cp": 407,
+    "max_cp": 441,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm548.icon.png"
+  },
+  {
+    "name": "Skiddo",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Grass-type Pokémon",
+    "min_cp": 498,
+    "max_cp": 536,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm672.icon.png"
+  },
+  {
+    "name": "Smoliv",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Grass-type Pokémon",
+    "min_cp": 335,
+    "max_cp": 366,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
+  },
+  {
+    "name": "Gastly",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Ghost-type Pokémon",
+    "min_cp": 487,
+    "max_cp": 527,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm92.icon.png"
+  },
+  {
+    "name": "Shuppet",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Ghost-type Pokémon",
+    "min_cp": 401,
+    "max_cp": 436,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm353.icon.png"
+  },
+  {
+    "name": "Duskull",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Ghost-type Pokémon",
+    "min_cp": 273,
+    "max_cp": 302,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm355.icon.png"
+  },
+  {
+    "name": "Drifloon",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Ghost-type Pokémon",
+    "min_cp": 475,
+    "max_cp": 513,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm425.icon.png"
+  },
+  {
+    "name": "Yamask",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Ghost-type Pokémon",
+    "min_cp": 387,
+    "max_cp": 420,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm562.icon.png"
+  },
+  {
+    "name": "Golett",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Ghost-type Pokémon",
+    "min_cp": 472,
+    "max_cp": 509,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm622.icon.png"
+  },
+  {
+    "name": "Murkrow",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Dark-type Pokémon",
+    "min_cp": 626,
+    "max_cp": 669,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm198.icon.png"
+  },
+  {
+    "name": "Sneasel",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Dark-type Pokémon",
+    "min_cp": 831,
+    "max_cp": 879,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png"
+  },
+  {
+    "name": "Poochyena",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Dark-type Pokémon",
+    "min_cp": 263,
+    "max_cp": 290,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm261.icon.png"
+  },
+  {
+    "name": "Purrloin",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Dark-type Pokémon",
+    "min_cp": 301,
+    "max_cp": 330,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm509.icon.png"
+  },
+  {
+    "name": "Inkay",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Dark-type Pokémon",
+    "min_cp": 365,
+    "max_cp": 397,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
+  },
+  {
+    "name": "Nickit",
+    "section": "Catching Tasks",
+    "task": "Catch 10 Dark-type Pokémon",
+    "min_cp": 278,
+    "max_cp": 306,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm827.icon.png"
+  },
+  {
+    "name": "Vulpix",
+    "section": "Catching Tasks",
+    "task": "Catch 5 Pokémon with Weather Boost",
+    "min_cp": 347,
+    "max_cp": 378,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.icon.png"
+  },
+  {
+    "name": "Poliwag",
+    "section": "Catching Tasks",
+    "task": "Catch 5 Pokémon with Weather Boost",
+    "min_cp": 324,
+    "max_cp": 355,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm60.icon.png"
+  },
+  {
+    "name": "Wingull",
+    "section": "Catching Tasks",
+    "task": "Catch 5 Pokémon with Weather Boost",
+    "min_cp": 298,
+    "max_cp": 328,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm278.icon.png"
+  },
+  {
+    "name": "Hippopotas",
+    "section": "Catching Tasks",
+    "task": "Catch 5 Pokémon with Weather Boost",
+    "min_cp": 542,
+    "max_cp": 582,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm449.icon.png"
+  },
+  {
+    "name": "Snover",
+    "section": "Catching Tasks",
+    "task": "Catch 5 Pokémon with Weather Boost",
+    "min_cp": 460,
+    "max_cp": 497,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm459.icon.png"
+  },
+  {
+    "name": "Roggenrola",
+    "section": "Catching Tasks",
+    "task": "Catch 5 Pokémon with Weather Boost",
+    "min_cp": 479,
+    "max_cp": 516,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm524.icon.png"
+  },
+  {
+    "name": "Vanillite",
+    "section": "Catching Tasks",
+    "task": "Catch 5 Pokémon with Weather Boost",
+    "min_cp": 409,
+    "max_cp": 443,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm582.icon.png"
+  }
+]

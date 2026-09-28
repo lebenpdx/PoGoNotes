@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Lapras",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 1076,
+    "max_cp": 1131,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
+  },
+  {
+    "name": "Vaporeon",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 1275,
+    "max_cp": 1335,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm134.icon.png"
+  },
+  {
+    "name": "Jolteon",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 1180,
+    "max_cp": 1238,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm135.icon.png"
+  },
+  {
+    "name": "Flareon",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 1239,
+    "max_cp": 1298,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm136.icon.png"
+  },
+  {
+    "name": "Snorlax",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 1320,
+    "max_cp": 1382,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm143.icon.png"
+  },
+  {
+    "name": "Piloswine",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 953,
+    "max_cp": 1005,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm221.icon.png"
+  },
+  {
+    "name": "Sealeo",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 690,
+    "max_cp": 735,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm364.icon.png"
+  },
+  {
+    "name": "Metang",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 694,
+    "max_cp": 738,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm375.icon.png"
+  },
+  {
+    "name": "Luxio",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 595,
+    "max_cp": 636,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm404.icon.png"
+  },
+  {
+    "name": "Gabite",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 757,
+    "max_cp": 803,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm444.icon.png"
+  },
+  {
+    "name": "Lampent",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 688,
+    "max_cp": 732,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm608.icon.png"
+  },
+  {
+    "name": "Fletchinder",
+    "section": "Battling Tasks",
+    "task": "Win a raid",
+    "min_cp": 589,
+    "max_cp": 629,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm662.icon.png"
+  },
+  {
+    "name": "Tirtouga",
+    "section": "Battling Tasks",
+    "task": "Win a three-star raid or higher",
+    "min_cp": 597,
+    "max_cp": 638,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm564.icon.png"
+  },
+  {
+    "name": "Archen",
+    "section": "Battling Tasks",
+    "task": "Win a three-star raid or higher",
+    "min_cp": 741,
+    "max_cp": 789,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm566.icon.png"
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "section": "Battling Tasks",
+    "task": "Win 5 raids",
+    "min_cp": 1233,
+    "max_cp": 1292,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm103.fALOLA.icon.png"
+  },
+  {
+    "name": "Alolan Marowak",
+    "section": "Battling Tasks",
+    "task": "Win 5 raids",
+    "min_cp": 741,
+    "max_cp": 786,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm105.fALOLA.icon.png"
+  },
+  {
+    "name": "Aerodactyl",
+    "section": "Battling Tasks",
+    "task": "Win 5 raids",
+    "min_cp": 1136,
+    "max_cp": 1193,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm142.icon.png"
+  }
+]

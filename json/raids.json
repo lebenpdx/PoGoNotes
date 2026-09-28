@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Dratini",
+    "max_cp": 574,
+    "max_boosted_cp": 717,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm147.icon.png"
+  },
+  {
+    "name": "Larvitar",
+    "max_cp": 594,
+    "max_boosted_cp": 743,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm246.icon.png"
+  },
+  {
+    "name": "Bagon",
+    "max_cp": 660,
+    "max_boosted_cp": 826,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm371.icon.png"
+  },
+  {
+    "name": "Deino",
+    "max_cp": 606,
+    "max_boosted_cp": 758,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm633.icon.png"
+  },
+  {
+    "name": "Hisuian Typhlosion",
+    "max_cp": 1710,
+    "max_boosted_cp": 2138,
+    "raid_level": 3,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm157.fHISUIAN.icon.png"
+  },
+  {
+    "name": "Hisuian Samurott",
+    "max_cp": 1601,
+    "max_boosted_cp": 2001,
+    "raid_level": 3,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png"
+  },
+  {
+    "name": "Hisuian Decidueye",
+    "max_cp": 1655,
+    "max_boosted_cp": 2069,
+    "raid_level": 3,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm724.fHISUIAN.icon.png"
+  },
+  {
+    "name": "Xurkitree",
+    "max_cp": 2249,
+    "max_boosted_cp": 2812,
+    "raid_level": 5,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.icon.png"
+  },
+  {
+    "name": "Pheromosa",
+    "max_cp": 1624,
+    "max_boosted_cp": 2030,
+    "raid_level": 5,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.icon.png"
+  },
+  {
+    "name": "Buzzwole",
+    "max_cp": 1977,
+    "max_boosted_cp": 2472,
+    "raid_level": 5,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png"
+  },
+  {
+    "name": "Mega Malamar",
+    "max_cp": 1347,
+    "max_boosted_cp": 1685,
+    "raid_level": "Mega",
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png"
+  },
+  {
+    "name": "Shadow Machop",
+    "max_cp": 730,
+    "max_boosted_cp": 913,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm66.icon.png"
+  },
+  {
+    "name": "Shadow Bellsprout",
+    "max_cp": 590,
+    "max_boosted_cp": 738,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm69.icon.png"
+  },
+  {
+    "name": "Shadow Torchic",
+    "max_cp": 624,
+    "max_boosted_cp": 781,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm255.icon.png"
+  },
+  {
+    "name": "Shadow Bagon",
+    "max_cp": 660,
+    "max_boosted_cp": 826,
+    "raid_level": 1,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm371.icon.png"
+  },
+  {
+    "name": "Shadow Alolan Sandslash",
+    "max_cp": 1390,
+    "max_boosted_cp": 1737,
+    "raid_level": 3,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm28.fALOLA.icon.png"
+  },
+  {
+    "name": "Shadow Quagsire",
+    "max_cp": 1138,
+    "max_boosted_cp": 1423,
+    "raid_level": 3,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm195.icon.png"
+  },
+  {
+    "name": "Shadow Lampent",
+    "max_cp": 976,
+    "max_boosted_cp": 1220,
+    "raid_level": 3,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm608.icon.png"
+  },
+  {
+    "name": "Shadow Thundurus (Incarnate)",
+    "max_cp": 1911,
+    "max_boosted_cp": 2389,
+    "raid_level": 5,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm642.fINCARNATE.icon.png"
+  }
+]

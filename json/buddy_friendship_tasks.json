@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Jigglypuff",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 2 Candies walking with your buddy",
+    "min_cp": 277,
+    "max_cp": 310,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm39.icon.png"
+  },
+  {
+    "name": "Buneary",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 2 Candies walking with your buddy",
+    "min_cp": 501,
+    "max_cp": 539,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm427.icon.png"
+  },
+  {
+    "name": "Glameow",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 2 Candies walking with your buddy",
+    "min_cp": 367,
+    "max_cp": 400,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm431.icon.png"
+  },
+  {
+    "name": "Bunnelby",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 2 Candies walking with your buddy",
+    "min_cp": 212,
+    "max_cp": 237,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm659.icon.png"
+  },
+  {
+    "name": "Litleo",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 2 Candies walking with your buddy",
+    "min_cp": 571,
+    "max_cp": 611,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm667.icon.png"
+  },
+  {
+    "name": "Dedenne",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 2 Candies walking with your buddy",
+    "min_cp": 743,
+    "max_cp": 789,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 3 Candies walking with your buddy",
+    "min_cp": 876,
+    "max_cp": 926,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png"
+  },
+  {
+    "name": "Stunfisk",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Earn 3 Candies walking with your buddy",
+    "min_cp": 876,
+    "max_cp": 926,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+  },
+  {
+    "name": "Clefairy",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Send 3 Gifts and add a sticker to each",
+    "min_cp": 458,
+    "max_cp": 495,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm35.icon.png"
+  },
+  {
+    "name": "Jigglypuff",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Send 3 Gifts and add a sticker to each",
+    "min_cp": 277,
+    "max_cp": 310,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm39.icon.png"
+  },
+  {
+    "name": "Eevee",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Send 3 Gifts and add a sticker to each",
+    "min_cp": 424,
+    "max_cp": 459,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png"
+  },
+  {
+    "name": "Togetic",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Send 3 Gifts and add a sticker to each",
+    "min_cp": 688,
+    "max_cp": 732,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm176.icon.png"
+  },
+  {
+    "name": "Poliwhirl",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Trade a Pokémon",
+    "min_cp": 568,
+    "max_cp": 608,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm61.icon.png"
+  },
+  {
+    "name": "Kadabra",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Trade a Pokémon",
+    "min_cp": 832,
+    "max_cp": 882,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm64.icon.png"
+  },
+  {
+    "name": "Machoke",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Trade a Pokémon",
+    "min_cp": 822,
+    "max_cp": 870,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm67.icon.png"
+  },
+  {
+    "name": "Haunter",
+    "section": "Buddy & Friendship Tasks",
+    "task": "Trade a Pokémon",
+    "min_cp": 792,
+    "max_cp": 841,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm93.icon.png"
+  }
+]

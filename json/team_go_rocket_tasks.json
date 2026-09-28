@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Arbok",
+    "section": "Team GO Rocket Tasks",
+    "task": "Defeat a Team GO Rocket Grunt",
+    "min_cp": 777,
+    "max_cp": 823,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm24.icon.png"
+  },
+  {
+    "name": "Meowth",
+    "section": "Team GO Rocket Tasks",
+    "task": "Defeat a Team GO Rocket Grunt",
+    "min_cp": 292,
+    "max_cp": 320,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm52.icon.png"
+  },
+  {
+    "name": "Weezing",
+    "section": "Team GO Rocket Tasks",
+    "task": "Defeat a Team GO Rocket Grunt",
+    "min_cp": 932,
+    "max_cp": 982,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.icon.png"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Growlithe",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 495,
+    "max_cp": 533,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.icon.png"
+  },
+  {
+    "name": "Galarian Ponyta",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 683,
+    "max_cp": 727,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm77.fGALARIAN.icon.png"
+  },
+  {
+    "name": "Ponyta",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 683,
+    "max_cp": 727,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm77.icon.png"
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 487,
+    "max_cp": 525,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png"
+  },
+  {
+    "name": "Slowpoke",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 487,
+    "max_cp": 525,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png"
+  },
+  {
+    "name": "Lapras",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 1076,
+    "max_cp": 1131,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
+  },
+  {
+    "name": "Houndour",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 491,
+    "max_cp": 529,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm228.icon.png"
+  },
+  {
+    "name": "Electrike",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 380,
+    "max_cp": 413,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm309.icon.png"
+  },
+  {
+    "name": "Wailmer",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 584,
+    "max_cp": 629,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm320.icon.png"
+  },
+  {
+    "name": "Herdier",
+    "section": "Exploring Tasks",
+    "task": "Explore 2 km",
+    "min_cp": 636,
+    "max_cp": 678,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm507.icon.png"
+  },
+  {
+    "name": "Alolan Marowak",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 741,
+    "max_cp": 786,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm105.fALOLA.icon.png"
+  },
+  {
+    "name": "Scyther",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 1104,
+    "max_cp": 1160,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
+  },
+  {
+    "name": "Noctowl",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 819,
+    "max_cp": 867,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm164.icon.png"
+  },
+  {
+    "name": "Sudowoodo",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 871,
+    "max_cp": 920,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm185.icon.png"
+  },
+  {
+    "name": "Nincada",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 299,
+    "max_cp": 329,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm290.icon.png"
+  },
+  {
+    "name": "Lileep",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 515,
+    "max_cp": 553,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm345.icon.png"
+  },
+  {
+    "name": "Anorith",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 613,
+    "max_cp": 655,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm347.icon.png"
+  },
+  {
+    "name": "Combee",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 188,
+    "max_cp": 212,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm415.icon.png"
+  },
+  {
+    "name": "Audino",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 676,
+    "max_cp": 721,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm531.icon.png"
+  },
+  {
+    "name": "Trubbish",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 395,
+    "max_cp": 428,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png"
+  },
+  {
+    "name": "Cubchoo",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 422,
+    "max_cp": 458,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm613.icon.png"
+  },
+  {
+    "name": "Stufful",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 540,
+    "max_cp": 579,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm759.icon.png"
+  },
+  {
+    "name": "Wimpod",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 191,
+    "max_cp": 215,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm767.icon.png"
+  },
+  {
+    "name": "Fidough",
+    "section": "Exploring Tasks",
+    "task": "Hatch an Egg",
+    "min_cp": 389,
+    "max_cp": 422,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm926.icon.png"
+  },
+  {
+    "name": "Sneasel",
+    "section": "Exploring Tasks",
+    "task": "Hatch 2 Eggs",
+    "min_cp": 831,
+    "max_cp": 879,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png"
+  },
+  {
+    "name": "Mawile",
+    "section": "Exploring Tasks",
+    "task": "Hatch 2 Eggs",
+    "min_cp": 658,
+    "max_cp": 700,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png"
+  },
+  {
+    "name": "Feebas",
+    "section": "Exploring Tasks",
+    "task": "Hatch 2 Eggs",
+    "min_cp": 99,
+    "max_cp": 117,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm349.icon.png"
+  },
+  {
+    "name": "Doduo",
+    "section": "Exploring Tasks",
+    "task": "Spin 3 PokéStops or Gyms",
+    "min_cp": 477,
+    "max_cp": 514,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm84.icon.png"
+  },
+  {
+    "name": "Remoraid",
+    "section": "Exploring Tasks",
+    "task": "Spin 3 PokéStops or Gyms",
+    "min_cp": 358,
+    "max_cp": 391,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm223.icon.png"
+  },
+  {
+    "name": "Ralts",
+    "section": "Exploring Tasks",
+    "task": "Spin 3 PokéStops or Gyms",
+    "min_cp": 206,
+    "max_cp": 231,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm280.icon.png"
+  },
+  {
+    "name": "Aron",
+    "section": "Exploring Tasks",
+    "task": "Spin 3 PokéStops or Gyms",
+    "min_cp": 522,
+    "max_cp": 560,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm304.icon.png"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 516,
+    "max_cp": 554,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
+  },
+  {
+    "name": "Sandshrew",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 503,
+    "max_cp": 540,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.icon.png"
+  },
+  {
+    "name": "Dunsparce",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 679,
+    "max_cp": 724,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm206.icon.png"
+  },
+  {
+    "name": "Sneasel",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 831,
+    "max_cp": 879,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png"
+  },
+  {
+    "name": "Galarian Zigzagoon",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 193,
+    "max_cp": 218,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm263.fGALARIAN.icon.png"
+  },
+  {
+    "name": "Zigzagoon",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 193,
+    "max_cp": 218,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm263.icon.png"
+  },
+  {
+    "name": "Snorunt",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 349,
+    "max_cp": 380,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm361.icon.png"
+  },
+  {
+    "name": "Bidoof",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 280,
+    "max_cp": 309,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm399.icon.png"
+  },
+  {
+    "name": "Hippopotas",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 542,
+    "max_cp": 582,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm449.icon.png"
+  },
+  {
+    "name": "Trubbish",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 395,
+    "max_cp": 428,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png"
+  },
+  {
+    "name": "Ducklett",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 335,
+    "max_cp": 367,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm580.icon.png"
+  },
+  {
+    "name": "Dewpider",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 277,
+    "max_cp": 306,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm751.icon.png"
+  },
+  {
+    "name": "Skwovet",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 371,
+    "max_cp": 404,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm819.icon.png"
+  },
+  {
+    "name": "Blipbug",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 133,
+    "max_cp": 153,
+    "can_be_shiny": false,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/poke_capture_0824_000_mf_n_00000000_f_n.png"
+  },
+  {
+    "name": "Arrokuda",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 355,
+    "max_cp": 387,
+    "can_be_shiny": false,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm846.icon.png"
+  },
+  {
+    "name": "Tarountula",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 219,
+    "max_cp": 244,
+    "can_be_shiny": false,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm917.icon.png"
+  },
+  {
+    "name": "Nacli",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops",
+    "min_cp": 381,
+    "max_cp": 414,
+    "can_be_shiny": false,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm932.icon.png"
+  },
+  {
+    "name": "Growlithe",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops or Gyms",
+    "min_cp": 495,
+    "max_cp": 533,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.icon.png"
+  },
+  {
+    "name": "Hisuian Growlithe",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops or Gyms",
+    "min_cp": 527,
+    "max_cp": 566,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.fHISUIAN.icon.png"
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops or Gyms",
+    "min_cp": 487,
+    "max_cp": 525,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png"
+  },
+  {
+    "name": "Slowpoke",
+    "section": "Exploring Tasks",
+    "task": "Spin 5 PokéStops or Gyms",
+    "min_cp": 487,
+    "max_cp": 525,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png"
+  },
+  {
+    "name": "Trapinch",
+    "section": "Exploring Tasks",
+    "task": "Take a snapshot of a wild Pokémon",
+    "min_cp": 507,
+    "max_cp": 546,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm328.icon.png"
+  },
+  {
+    "name": "Croagunk",
+    "section": "Exploring Tasks",
+    "task": "Take a snapshot of a wild Pokémon",
+    "min_cp": 375,
+    "max_cp": 408,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm453.icon.png"
+  },
+  {
+    "name": "Cottonee",
+    "section": "Exploring Tasks",
+    "task": "Take a snapshot of a wild Pokémon",
+    "min_cp": 271,
+    "max_cp": 300,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm546.icon.png"
+  }
+]

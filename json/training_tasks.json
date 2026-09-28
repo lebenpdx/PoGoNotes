@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Seadra",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 848,
+    "max_cp": 897,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm117.icon.png"
+  },
+  {
+    "name": "Eevee",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 424,
+    "max_cp": 459,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png"
+  },
+  {
+    "name": "Ursaring",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 1203,
+    "max_cp": 1262,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm217.icon.png"
+  },
+  {
+    "name": "Magcargo",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 685,
+    "max_cp": 729,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm219.icon.png"
+  },
+  {
+    "name": "Grumpig",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 964,
+    "max_cp": 1015,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm326.icon.png"
+  },
+  {
+    "name": "Whirlipede",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 454,
+    "max_cp": 490,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm544.icon.png"
+  },
+  {
+    "name": "Eelektrik",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 691,
+    "max_cp": 735,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm603.icon.png"
+  },
+  {
+    "name": "Diggersby",
+    "section": "Training Tasks",
+    "task": "Evolve a Pokémon",
+    "min_cp": 605,
+    "max_cp": 646,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm660.icon.png"
+  },
+  {
+    "name": "Bulbasaur",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 3 times",
+    "min_cp": 442,
+    "max_cp": 477,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.icon.png"
+  },
+  {
+    "name": "Charmander",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 3 times",
+    "min_cp": 387,
+    "max_cp": 420,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png"
+  },
+  {
+    "name": "Squirtle",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 3 times",
+    "min_cp": 372,
+    "max_cp": 405,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.icon.png"
+  },
+  {
+    "name": "Snivy",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 5 times",
+    "min_cp": 333,
+    "max_cp": 364,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm495.icon.png"
+  },
+  {
+    "name": "Tepig",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 5 times",
+    "min_cp": 428,
+    "max_cp": 464,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm498.icon.png"
+  },
+  {
+    "name": "Oshawott",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 5 times",
+    "min_cp": 413,
+    "max_cp": 448,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm501.icon.png"
+  },
+  {
+    "name": "Rowlet",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 7 times",
+    "min_cp": 418,
+    "max_cp": 453,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.icon.png"
+  },
+  {
+    "name": "Litten",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 7 times",
+    "min_cp": 409,
+    "max_cp": 443,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm725.icon.png"
+  },
+  {
+    "name": "Popplio",
+    "section": "Training Tasks",
+    "task": "Power up Pokémon 7 times",
+    "min_cp": 448,
+    "max_cp": 483,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm728.icon.png"
+  }
+]

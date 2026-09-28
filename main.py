@@ -5,6 +5,22 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 import requests
 
+# Edit these settings to change the Markdown filters and entry layout.
+MARKDOWN_RAID_LEVELS = {5}
+MARKDOWN_EXCLUDED_SECTIONS = {
+    'exploring tasks',
+    'catching tasks',
+    'buddy tasks',
+    'buddy & friendship tasks',
+    'team rocket tasks',
+    'team go rocket tasks',
+    'battling tasks',
+    'throwing tasks',
+    'training tasks',
+}
+RAID_LINE = '- **{name}** — Max CP: {max_cp} | Boosted: {max_boosted_cp}'
+RESEARCH_LINE = '- **{name}** — {task} | Max CP: {max_cp}'
+
 def scrape_research(url):
     response = requests.get(url, timeout=30)
     response.raise_for_status()
@@ -93,6 +109,39 @@ def save_research_sections(data):
     return paths
 
 
+def export_markdown(json_dir=None, output_path=None):
+    """Read all JSON files, filter entries, and overwrite the Markdown notes."""
+    json_dir = Path(json_dir) if json_dir is not None else Path(__file__).with_name('json')
+    output_path = Path(output_path) if output_path is not None else Path(__file__).with_name('notes.md')
+    raids = []
+    research = {}
+    for path in sorted(json_dir.glob('*.json')):
+        for entry in json.loads(path.read_text(encoding='utf-8')):
+            if path.name == 'raids.json':
+                if entry['raid_level'] in MARKDOWN_RAID_LEVELS:
+                    raids.append(entry)
+            elif entry['section'].casefold() not in MARKDOWN_EXCLUDED_SECTIONS:
+                research.setdefault(entry['section'], []).append(entry)
+
+    def format_line(template, entry):
+        # Keep each entry on one line, even when source text contains newlines.
+        fields = {
+            key: ' '.join(value.split()) if isinstance(value, str) else value
+            for key, value in entry.items()
+        }
+        return template.format_map(fields)
+
+    lines = ['# PoGo Notes', '', '## Raids', '']
+    lines.extend(format_line(RAID_LINE, entry) for entry in raids)
+    lines.extend(['', '## Research', ''])
+    for section, entries in research.items():
+        lines.extend([f"### {' '.join(section.split())}", ''])
+        lines.extend(format_line(RESEARCH_LINE, entry) for entry in entries)
+        lines.append('')
+    output_path.write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
+    return output_path
+
+
 if __name__ == "__main__":
     data = clean(scrape_research("https://leekduck.com/research/"))
     raid_data = clean(scrape_raids("https://leekduck.com/raid-bosses/"))
@@ -103,3 +152,5 @@ if __name__ == "__main__":
     print(f'Saved {len(raid_data)} raids to {raid_output_path}')
     research_paths = save_research_sections(data)
     print(f'Saved {len(data)} research results across {len(research_paths)} files in json')
+    markdown_path = export_markdown()
+    print(f'Saved Markdown notes to {markdown_path}')

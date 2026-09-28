@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Drifloon",
+    "section": "Phantump Catch Mastery Tasks",
+    "task": "Make 10 Nice Throws",
+    "max_cp": 513
+  },
+  {
+    "name": "Phantump",
+    "section": "Phantump Catch Mastery Tasks",
+    "task": "Make 10 Nice Throws",
+    "max_cp": 481
+  },
+  {
+    "name": "Phantump",
+    "section": "Phantump Catch Mastery Tasks",
+    "task": "Make 3 Great Throws in a row",
+    "max_cp": 481
+  },
+  {
+    "name": "Cherubi",
+    "section": "Phantump Catch Mastery Tasks",
+    "task": "Make 7 Great Throws",
+    "max_cp": 407
+  },
+  {
+    "name": "Phantump",
+    "section": "Phantump Catch Mastery Tasks",
+    "task": "Make 7 Great Throws",
+    "max_cp": 481
+  },
+  {
+    "name": "Phantump",
+    "section": "Phantump Catch Mastery Tasks",
+    "task": "Make an Excellent Throw",
+    "max_cp": 481
+  }
+]
