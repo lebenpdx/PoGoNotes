@@ -5,7 +5,7 @@
     "task": "Catch 15 Grass-type Pokémon",
     "min_cp": 277,
     "max_cp": 306,
-    "can_be_shiny": false,
+    "can_be_shiny": true,
     "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
   },
   {

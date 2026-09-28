@@ -1,13 +1,14 @@
 import json
 import re
+from html import escape
 from pathlib import Path
 
 from bs4 import BeautifulSoup
 import requests
 
-# Edit these settings to change the Markdown filters and entry layout.
-MARKDOWN_RAID_LEVELS = {5}
-MARKDOWN_EXCLUDED_SECTIONS = {
+# Edit these settings to change the HTML filters and entry layout.
+HTML_RAID_LEVELS = {5}
+HTML_EXCLUDED_SECTIONS = {
     'exploring tasks',
     'catching tasks',
     'buddy tasks',
@@ -18,8 +19,15 @@ MARKDOWN_EXCLUDED_SECTIONS = {
     'throwing tasks',
     'training tasks',
 }
-RAID_LINE = '- **{name}** — Max CP: {max_cp} | Boosted: {max_boosted_cp}'
-RESEARCH_LINE = '- **{name}** — {task} | Max CP: {max_cp}'
+RAID_LINE = '<li><strong>{name}</strong> &mdash; Max CP: {max_cp} | Boosted: {max_boosted_cp}</li>'
+RESEARCH_LINE = '<li><strong>{name}</strong> &mdash; {task} | Max CP: {max_cp}</li>'
+HTML_STYLE = '''
+body { font-family: system-ui, sans-serif; max-width: 960px; margin: 0 auto; padding: 24px; color: #202124; background: #fafafa; }
+h1, h2, h3 { line-height: 1.3; }
+h2 { margin-top: 28px; border-bottom: 2px solid #ddd; padding-bottom: 8px; }
+ul { list-style: none; padding: 0; overflow-x: auto; }
+li { padding: 10px 0; border-bottom: 1px solid #ddd; white-space: nowrap; }
+'''
 
 def scrape_research(url):
     response = requests.get(url, timeout=30)
@@ -109,35 +117,43 @@ def save_research_sections(data):
     return paths
 
 
-def export_markdown(json_dir=None, output_path=None):
-    """Read all JSON files, filter entries, and overwrite the Markdown notes."""
+def export_html(json_dir=None, output_path=None):
+    """Read all JSON files, filter entries, and overwrite the HTML notes."""
     json_dir = Path(json_dir) if json_dir is not None else Path(__file__).with_name('json')
-    output_path = Path(output_path) if output_path is not None else Path(__file__).with_name('notes.md')
+    output_path = Path(output_path) if output_path is not None else Path(__file__).with_name('notes.html')
     raids = []
     research = {}
     for path in sorted(json_dir.glob('*.json')):
         for entry in json.loads(path.read_text(encoding='utf-8')):
             if path.name == 'raids.json':
-                if entry['raid_level'] in MARKDOWN_RAID_LEVELS:
+                if entry['raid_level'] in HTML_RAID_LEVELS:
                     raids.append(entry)
-            elif entry['section'].casefold() not in MARKDOWN_EXCLUDED_SECTIONS:
+            elif entry['section'].casefold() not in HTML_EXCLUDED_SECTIONS:
                 research.setdefault(entry['section'], []).append(entry)
 
     def format_line(template, entry):
         # Keep each entry on one line, even when source text contains newlines.
         fields = {
-            key: ' '.join(value.split()) if isinstance(value, str) else value
+            key: escape(' '.join(value.split())) if isinstance(value, str) else value
             for key, value in entry.items()
         }
         return template.format_map(fields)
 
-    lines = ['# PoGo Notes', '', '## Raids', '']
+    lines = [
+        '<!DOCTYPE html>', '<html lang="en">', '<head>',
+        '<meta charset="utf-8">',
+        '<meta name="viewport" content="width=device-width, initial-scale=1">',
+        '<title>PoGo Notes</title>', f'<style>{HTML_STYLE}</style>',
+        '</head>', '<body>', '<main>', '<h1>PoGo Notes</h1>',
+        '<section>', '<h2>Raids</h2>', '<ul>',
+    ]
     lines.extend(format_line(RAID_LINE, entry) for entry in raids)
-    lines.extend(['', '## Research', ''])
+    lines.extend(['</ul>', '</section>', '<section>', '<h2>Research</h2>'])
     for section, entries in research.items():
-        lines.extend([f"### {' '.join(section.split())}", ''])
+        lines.extend([f"<h3>{escape(' '.join(section.split()))}</h3>", '<ul>'])
         lines.extend(format_line(RESEARCH_LINE, entry) for entry in entries)
-        lines.append('')
+        lines.append('</ul>')
+    lines.extend(['</section>', '</main>', '</body>', '</html>'])
     output_path.write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
     return output_path
 
@@ -152,5 +168,5 @@ if __name__ == "__main__":
     print(f'Saved {len(raid_data)} raids to {raid_output_path}')
     research_paths = save_research_sections(data)
     print(f'Saved {len(data)} research results across {len(research_paths)} files in json')
-    markdown_path = export_markdown()
-    print(f'Saved Markdown notes to {markdown_path}')
+    html_path = export_html()
+    print(f'Saved HTML notes to {html_path}')
