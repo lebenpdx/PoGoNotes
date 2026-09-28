@@ -120,7 +120,7 @@ def save_research_sections(data):
 def export_html(json_dir=None, output_path=None):
     """Read all JSON files, filter entries, and overwrite the HTML notes."""
     json_dir = Path(json_dir) if json_dir is not None else Path(__file__).with_name('json')
-    output_path = Path(output_path) if output_path is not None else Path(__file__).with_name('notes.html')
+    output_path = Path(output_path) if output_path is not None else Path(__file__).with_name('index.html')
     raids = []
     research = {}
     for path in sorted(json_dir.glob('*.json')):
