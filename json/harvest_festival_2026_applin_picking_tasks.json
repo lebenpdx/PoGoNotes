@@ -1,23 +1,5 @@
 [
   {
-    "name": "Applin",
-    "section": "Harvest Festival 2026: Applin Picking Tasks",
-    "task": "Catch 15 Grass-type Pokémon",
-    "min_cp": 277,
-    "max_cp": 306,
-    "can_be_shiny": true,
-    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
-  },
-  {
-    "name": "Smoliv",
-    "section": "Harvest Festival 2026: Applin Picking Tasks",
-    "task": "Use 10 Berries to help catch Pokémon",
-    "min_cp": 335,
-    "max_cp": 366,
-    "can_be_shiny": true,
-    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
-  },
-  {
     "name": "Foongus",
     "section": "Harvest Festival 2026: Applin Picking Tasks",
     "task": "Catch 5 Grass-type Pokémon",
@@ -39,6 +21,24 @@
     "name": "Smoliv",
     "section": "Harvest Festival 2026: Applin Picking Tasks",
     "task": "Catch 5 Grass-type Pokémon",
+    "min_cp": 335,
+    "max_cp": 366,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
+  },
+  {
+    "name": "Applin",
+    "section": "Harvest Festival 2026: Applin Picking Tasks",
+    "task": "Catch 15 Grass-type Pokémon",
+    "min_cp": 277,
+    "max_cp": 306,
+    "can_be_shiny": true,
+    "image_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
+  },
+  {
+    "name": "Smoliv",
+    "section": "Harvest Festival 2026: Applin Picking Tasks",
+    "task": "Use 10 Berries to help catch Pokémon",
     "min_cp": 335,
     "max_cp": 366,
     "can_be_shiny": true,
